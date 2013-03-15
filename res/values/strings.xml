@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Simple Quiz</string>
+    <string name="app_name">Quiz1</string>
+    <string name="select_question_type">Select question type</string>
+    <string name="history_button">History</string>
+    <string name="maths_button">Maths</string>
+    <string name="maths_question_title">What is the result of the following calculation?</string>
+    <string name="numeric">Numeric Question</string>
+    <string name="maths_answer_text">Check</string>
+    <string name="overall_summary"></string>
+</resources>
